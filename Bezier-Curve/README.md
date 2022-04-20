@@ -1,4 +1,5 @@
 Uporaba:
+
 Prve štiri točke uporabnik določi sam, nato se krivulja nadaljuje. Zadnja točka prejšne krivulje postane prva točka nove, 
 ko uporabnik klikne drugo točko se mu najprej izriše kje jo je postavil on, ko pa prepračunajo dejasnke kordinate za zveznost 1. 
 stopnje...pa uporabnikova izgine ter se izriše nova. Točka se postavi tako da Y ostane od uporabnika, njen X pa se postavi 2. 
