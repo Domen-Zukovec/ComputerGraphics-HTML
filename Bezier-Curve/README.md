@@ -16,4 +16,4 @@ Gumbi se pojavijo pod navodili za uporabo.
 
 Premika krivulj po kreaciji program ne podpira.
 
-![Posnetek zaslona 2022-04-20 112429](https://user-images.githubusercontent.com/37377101/164197214-75f5a959-b28b-4e95-b977-383458726ade.png)
+![Posnetek zaslona 2022-04-20 112739](https://user-images.githubusercontent.com/37377101/164197543-489995ad-406d-40b4-8bdd-c8ff661502c7.png)
