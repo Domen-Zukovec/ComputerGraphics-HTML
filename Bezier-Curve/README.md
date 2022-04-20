@@ -1,9 +1,9 @@
 Uporaba:
 Prve štiri točke uporabnik določi sam, nato se krivulja nadaljuje. Zadnja točka prejšne krivulje postane prva točka nove, 
-ko uporabnik klikne drugo točko se mu najprej izriše kje jo je postavil on, ko pa prepračunajo dejasnke kordinate za zveznost 
-1. stopnje...pa uporabnikova izgine ter se izriše nova. Točka se postavi tako da Y ostane od uporabnika, njen X pa se postavi 
-2. tako da je kolinearna, če pa bi uporabnik tudi Y kordinato postavil napačno se ta preslika čez X os. Nato potavi še poljubno 
-3. tretjo in zadnjo točko in krivulja se izriše.
+ko uporabnik klikne drugo točko se mu najprej izriše kje jo je postavil on, ko pa prepračunajo dejasnke kordinate za zveznost 1. 
+stopnje...pa uporabnikova izgine ter se izriše nova. Točka se postavi tako da Y ostane od uporabnika, njen X pa se postavi 2. 
+tako da je kolinearna, če pa bi uporabnik tudi Y kordinato postavil napačno se ta preslika čez X os. Nato potavi še poljubno 3. 
+tretjo in zadnjo točko in krivulja se izriše.
 
 Za risanje novih krivulj uporabnik pritisne tipko "nova krivulja" in poljubno začne risanje po istem principu kot zgoraj.
 
