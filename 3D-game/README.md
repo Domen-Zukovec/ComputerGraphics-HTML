@@ -16,6 +16,9 @@ mafije, ki ima 36 življenjskih točk in na vsake toliko udari nazaj. Igralec la
 udarca preden se igra konča
 
 Click to play video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zzDkSm45UCw/0.jpg)](https://www.youtube.com/watch?v=zzDkSm45UCw)
+
+Backup link for video:
 
 https://youtu.be/zzDkSm45UCw
