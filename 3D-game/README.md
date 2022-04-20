@@ -15,4 +15,6 @@ rokavice povečajo moč za šestkrat, čevlji so pa najhitrejši. Na koncu ulice
 mafije, ki ima 36 življenjskih točk in na vsake toliko udari nazaj. Igralec lahko prenese dva 
 udarca preden se igra konča
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zzDkSm45UCw/0.jpg)](https://www.youtube.com/watch?v=zzDkSm45UCw)
+
 https://youtu.be/zzDkSm45UCw
